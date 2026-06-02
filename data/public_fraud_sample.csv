@@ -1,0 +1,81 @@
+transaction_id,trans_date_trans_time,amount,merchant,type,city,state,city_pop,is_fraud,source_dataset
+1,2019-01-01 00:00:18,4.97,"Rippin, Kub and Mann",misc_net,Moravian Falls,NC,3495,0,alenc123/credit-card-fraud on Hugging Face
+2,2019-01-01 00:00:44,107.23,"Heller, Gutmann and Zieme",grocery_pos,Orient,WA,149,0,alenc123/credit-card-fraud on Hugging Face
+3,2019-01-01 00:00:51,220.11,Lind-Buckridge,entertainment,Malad City,ID,4154,0,alenc123/credit-card-fraud on Hugging Face
+4,2019-01-01 00:01:16,45.0,"Kutch, Hermiston and Farrell",gas_transport,Boulder,MT,1939,0,alenc123/credit-card-fraud on Hugging Face
+5,2019-01-01 00:03:06,41.96,Keeling-Crist,misc_pos,Doe Hill,VA,99,0,alenc123/credit-card-fraud on Hugging Face
+6,2019-01-01 00:04:08,94.63,"Stroman, Hudson and Erdman",gas_transport,Dublin,PA,2158,0,alenc123/credit-card-fraud on Hugging Face
+7,2019-01-01 00:04:42,44.54,Rowe-Vandervort,grocery_net,Holcomb,KS,2691,0,alenc123/credit-card-fraud on Hugging Face
+8,2019-01-01 00:05:08,71.65,Corwin-Collins,gas_transport,Edinburg,VA,6018,0,alenc123/credit-card-fraud on Hugging Face
+9,2019-01-01 00:05:18,4.27,Herzog Ltd,misc_pos,Manor,PA,1472,0,alenc123/credit-card-fraud on Hugging Face
+10,2019-01-01 00:06:01,198.39,"Schoen, Kuphal and Nitzsche",grocery_pos,Clarksville,TN,151785,0,alenc123/credit-card-fraud on Hugging Face
+11,2019-01-01 00:06:23,24.74,Rutherford-Mertz,grocery_pos,Clarinda,IA,7297,0,alenc123/credit-card-fraud on Hugging Face
+12,2019-01-01 00:06:53,7.77,Kerluke-Abshire,shopping_net,Shenandoah Junction,WV,1925,0,alenc123/credit-card-fraud on Hugging Face
+13,2019-01-01 00:06:56,71.22,Lockman Ltd,grocery_pos,Saint Petersburg,FL,341043,0,alenc123/credit-card-fraud on Hugging Face
+14,2019-01-01 00:07:27,96.29,Kiehn Inc,grocery_pos,Grenada,CA,589,0,alenc123/credit-card-fraud on Hugging Face
+15,2019-01-01 00:09:03,7.77,Beier-Hyatt,shopping_pos,High Rolls Mountain Park,NM,899,0,alenc123/credit-card-fraud on Hugging Face
+16,2019-01-01 00:09:20,3.26,Schmidt and Sons,shopping_net,Harrington Park,NJ,4664,0,alenc123/credit-card-fraud on Hugging Face
+17,2019-01-01 00:10:49,327.0,Lebsack and Sons,misc_net,Lahoma,OK,1078,0,alenc123/credit-card-fraud on Hugging Face
+18,2019-01-01 00:10:58,341.67,Mayert Group,shopping_pos,Carlisle,IN,4081,0,alenc123/credit-card-fraud on Hugging Face
+19,2019-01-01 00:11:14,63.07,"Konopelski, Schneider and Hartmann",food_dining,Harborcreek,PA,2518,0,alenc123/credit-card-fraud on Hugging Face
+20,2019-01-01 00:12:34,44.71,"Schultz, Simonis and Little",grocery_pos,Elizabeth,NJ,124967,0,alenc123/credit-card-fraud on Hugging Face
+21,2019-01-01 00:13:08,57.34,Bauch-Raynor,grocery_pos,Methuen,MA,47249,0,alenc123/credit-card-fraud on Hugging Face
+22,2019-01-01 00:14:37,50.79,Harris Inc,gas_transport,Moulton,IA,1132,0,alenc123/credit-card-fraud on Hugging Face
+23,2019-01-01 00:17:16,46.28,Kling-Grant,grocery_net,Plainfield,NJ,71485,0,alenc123/credit-card-fraud on Hugging Face
+24,2019-01-01 00:17:40,9.55,Pacocha-Bauch,shopping_pos,May,TX,1791,0,alenc123/credit-card-fraud on Hugging Face
+25,2019-01-01 00:18:06,22.95,Lesch Ltd,shopping_pos,Waukesha,WI,95015,0,alenc123/credit-card-fraud on Hugging Face
+26,2019-01-01 00:18:07,2.55,Kunde-Sanford,misc_net,Bailey,NC,6629,0,alenc123/credit-card-fraud on Hugging Face
+27,2019-01-01 00:20:15,64.09,Deckow-O'Conner,grocery_pos,Romulus,MI,31515,0,alenc123/credit-card-fraud on Hugging Face
+28,2019-01-01 00:21:32,6.85,Bruen-Yost,misc_pos,Freedom,WY,471,0,alenc123/credit-card-fraud on Hugging Face
+29,2019-01-01 00:22:06,90.22,Kunze Inc,grocery_pos,Honokaa,HI,4878,0,alenc123/credit-card-fraud on Hugging Face
+30,2019-01-01 00:22:18,4.02,"Nitzsche, Kessler and Wolff",shopping_pos,Valentine,NE,4005,0,alenc123/credit-card-fraud on Hugging Face
+31,2019-01-01 00:22:36,3.66,"Kihn, Abernathy and Douglas",shopping_net,Westfir,OR,597,0,alenc123/credit-card-fraud on Hugging Face
+32,2019-01-01 00:22:39,82.8,"Heller, Gutmann and Zieme",grocery_pos,Tiptonville,TN,5577,0,alenc123/credit-card-fraud on Hugging Face
+33,2019-01-01 00:22:44,66.21,Torphy-Goyette,shopping_pos,Republic,MI,1038,0,alenc123/credit-card-fraud on Hugging Face
+34,2019-01-01 00:23:41,25.58,Balistreri-Nader,misc_pos,Baton Rouge,LA,378909,0,alenc123/credit-card-fraud on Hugging Face
+35,2019-01-01 00:23:58,9.03,"Bahringer, Schoen and Corkery",shopping_pos,Washington,DC,601723,0,alenc123/credit-card-fraud on Hugging Face
+36,2019-01-01 00:25:46,99.0,Hudson-Ratke,grocery_pos,Big Creek,KY,467,0,alenc123/credit-card-fraud on Hugging Face
+37,2019-01-01 00:26:22,207.36,Heidenreich PLC,grocery_pos,Bellmore,NY,34496,0,alenc123/credit-card-fraud on Hugging Face
+38,2019-01-01 00:27:45,181.35,Halvorson Group,misc_pos,Florence,MS,19685,0,alenc123/credit-card-fraud on Hugging Face
+39,2019-01-01 00:27:56,82.22,Harber Inc,gas_transport,Allentown,PA,166081,0,alenc123/credit-card-fraud on Hugging Face
+40,2019-01-01 00:29:11,221.81,"Mosciski, Gislason and Mertz",grocery_pos,Moriches,NY,3285,0,alenc123/credit-card-fraud on Hugging Face
+41,2019-01-01 00:30:49,53.6,"Christiansen, Goyette and Schamberger",gas_transport,Esbon,KS,242,0,alenc123/credit-card-fraud on Hugging Face
+42,2019-01-01 00:31:01,54.02,Howe Ltd,misc_pos,Chatham,NY,4015,0,alenc123/credit-card-fraud on Hugging Face
+43,2019-01-01 00:31:51,102.13,Ledner-Pfannerstill,gas_transport,Thompson,UT,46,0,alenc123/credit-card-fraud on Hugging Face
+44,2019-01-01 00:32:15,212.75,Lockman Ltd,grocery_pos,Holcomb,KS,2691,0,alenc123/credit-card-fraud on Hugging Face
+45,2019-01-01 00:32:15,130.4,Koepp-Witting,grocery_pos,North Prairie,WI,2328,0,alenc123/credit-card-fraud on Hugging Face
+46,2019-01-01 00:32:47,91.16,Doyle Ltd,grocery_pos,Laredo,TX,248858,0,alenc123/credit-card-fraud on Hugging Face
+47,2019-01-01 00:33:51,55.78,"Schaefer, Maggio and Daugherty",gas_transport,Grant,AL,5901,0,alenc123/credit-card-fraud on Hugging Face
+48,2019-01-01 00:34:10,83.07,Stracke-Lemke,grocery_pos,Conway,WA,85,0,alenc123/credit-card-fraud on Hugging Face
+49,2019-01-01 00:36:12,4.38,"Mosciski, Ziemann and Farrell",shopping_net,New Goshen,IN,205,0,alenc123/credit-card-fraud on Hugging Face
+50,2019-01-01 00:36:58,130.89,Cartwright-Harris,grocery_pos,Sunflower,MS,1686,0,alenc123/credit-card-fraud on Hugging Face
+51,2019-01-01 00:37:18,103.0,Pacocha-O'Reilly,grocery_pos,Enola,AR,969,0,alenc123/credit-card-fraud on Hugging Face
+52,2019-01-01 00:39:22,50.82,Pfeffer LLC,grocery_net,Roosevelt,OK,551,0,alenc123/credit-card-fraud on Hugging Face
+53,2019-01-01 00:39:37,60.77,Huels-Hahn,gas_transport,Pointe Aux Pins,MI,95,0,alenc123/credit-card-fraud on Hugging Face
+54,2019-01-01 00:39:43,122.86,Volkman PLC,food_dining,Dallas,TX,1263321,0,alenc123/credit-card-fraud on Hugging Face
+55,2019-01-01 00:40:44,212.45,Kiehn-Emmerich,grocery_pos,Jay,FL,5719,0,alenc123/credit-card-fraud on Hugging Face
+56,2019-01-01 00:40:48,7.33,Kemmer-Buckridge,misc_pos,North Tonawanda,NY,45100,0,alenc123/credit-card-fraud on Hugging Face
+57,2019-01-01 00:40:50,70.53,Cummerata-Jones,gas_transport,Athena,OR,1302,0,alenc123/credit-card-fraud on Hugging Face
+58,2019-01-01 00:40:58,58.26,"Goldner, Kovacek and Abbott",grocery_pos,Chester,MD,5848,0,alenc123/credit-card-fraud on Hugging Face
+59,2019-01-01 00:41:43,50.45,Spinka-Welch,grocery_net,Elkhart,IA,1195,0,alenc123/credit-card-fraud on Hugging Face
+60,2019-01-01 00:41:45,177.57,Huel-Langworth,misc_net,Thompson,UT,46,0,alenc123/credit-card-fraud on Hugging Face
+61,2019-01-01 00:42:26,8.57,Macejkovic-Lesch,shopping_pos,Surrency,GA,1324,0,alenc123/credit-card-fraud on Hugging Face
+62,2019-01-01 00:43:38,56.66,Corwin-Collins,gas_transport,Arcadia,MI,680,0,alenc123/credit-card-fraud on Hugging Face
+63,2019-01-01 00:44:20,75.34,Morar Inc,grocery_net,Gaithersburg,MD,135332,0,alenc123/credit-card-fraud on Hugging Face
+64,2019-01-01 00:44:43,62.54,"Eichmann, Bogan and Rodriguez",gas_transport,Bowdoin,ME,3224,0,alenc123/credit-card-fraud on Hugging Face
+65,2019-01-01 00:45:13,92.84,"Huel, Hammes and Witting",grocery_pos,Heart Butte,MT,743,0,alenc123/credit-card-fraud on Hugging Face
+66,2019-01-01 00:46:18,2.76,"Ferry, Lynch and Kautzer",misc_net,San Jose,CA,973849,0,alenc123/credit-card-fraud on Hugging Face
+67,2019-01-01 00:47:55,101.35,Heathcote LLC,shopping_net,Rumely,MI,137,0,alenc123/credit-card-fraud on Hugging Face
+68,2019-01-01 00:48:09,303.47,Huel-Langworth,misc_net,Cranks,KY,581,0,alenc123/credit-card-fraud on Hugging Face
+69,2019-01-01 00:49:25,83.52,"Little, Gutmann and Lynch",shopping_net,Ravenna,NE,2202,0,alenc123/credit-card-fraud on Hugging Face
+70,2019-01-01 00:49:31,9.97,Torphy-Goyette,shopping_pos,Utica,KS,269,0,alenc123/credit-card-fraud on Hugging Face
+71,2019-01-01 00:50:53,16.16,Jaskolski-Dibbert,grocery_net,Uledi,PA,328,0,alenc123/credit-card-fraud on Hugging Face
+72,2019-01-01 00:52:57,59.56,Hackett-Lueilwitz,grocery_pos,Naples,FL,276002,0,alenc123/credit-card-fraud on Hugging Face
+73,2019-01-01 00:55:05,57.23,Cummings LLC,gas_transport,Thida,AR,111,0,alenc123/credit-card-fraud on Hugging Face
+74,2019-01-01 00:56:12,317.14,"Swaniawski, Lowe and Robel",shopping_pos,Parks,AZ,759,0,alenc123/credit-card-fraud on Hugging Face
+75,2019-01-01 00:56:44,127.88,"Osinski, Ledner and Leuschke",grocery_pos,Central,IN,350,0,alenc123/credit-card-fraud on Hugging Face
+76,2019-01-01 00:56:59,113.4,"Reichert, Huels and Hoppe",shopping_net,Fort Washakie,WY,1645,0,alenc123/credit-card-fraud on Hugging Face
+77,2019-01-01 00:57:17,94.53,Ankunding LLC,shopping_net,Etlan,VA,395,0,alenc123/credit-card-fraud on Hugging Face
+78,2019-01-01 00:57:30,1.82,Pfeffer and Sons,shopping_pos,Brinson,GA,1461,0,alenc123/credit-card-fraud on Hugging Face
+79,2019-01-01 00:58:02,75.77,"Greenholt, Jacobi and Gleason",gas_transport,Shrewsbury,MA,35299,0,alenc123/credit-card-fraud on Hugging Face
+80,2019-01-01 00:58:53,108.59,Kunze Inc,grocery_pos,Bigelow,MN,399,0,alenc123/credit-card-fraud on Hugging Face
