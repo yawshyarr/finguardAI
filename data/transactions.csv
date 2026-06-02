@@ -1,0 +1,11 @@
+transaction_id,amount,merchant,type,is_fraud
+1,500,Amazon,Shopping,0
+2,25000,ATM,Cash,1
+3,1200,Netflix,Subscription,0
+4,45000,Unknown,Transfer,1
+5,800,Uber,Travel,0
+6,35000,ATM,Cash,1
+7,200,Swiggy,Food,0
+8,40000,Unknown,Transfer,1
+9,950,Amazon,Shopping,0
+10,27000,ATM,Cash,1
